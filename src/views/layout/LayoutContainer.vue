@@ -131,7 +131,7 @@
       background-color: #232323;
       &__logo {
         height: 120px;
-        background: url('@/assets/logo.png') no-repeat center / 120px auto;
+        background: url('@/assets/logo.jpg') no-repeat center / 210px auto;
       }
       .el-menu {
         border-right: none;
